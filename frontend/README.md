@@ -49,8 +49,6 @@ GROQ_MODEL=openai/gpt-oss-20b
 | `ACCESS_TOKEN_EXPIRE_MINUTES` | No | `60` | JWT lifetime in minutes |
 | `GROQ_MODEL` | No | `openai/gpt-oss-20b` | Groq model used for resume analysis |
 
-Do not commit `.env` files or API keys. The backend loads the Groq settings from
-`backend/.env`.
 
 ## Running the backend
 

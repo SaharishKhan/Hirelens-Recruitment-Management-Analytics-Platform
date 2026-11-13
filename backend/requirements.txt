@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pymongo[srv]
+python-dotenv
+pwdlib[argon2]
+PyJWT
+email-validator
+matplotlib
+pandas
+numpy
+scikit-learn
+groq

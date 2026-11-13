@@ -1,0 +1,21 @@
+# Upload candidate resumes
+storage/resumes/
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Node
+node_modules/
+dist/
+
+# Uploaded resumes
+private_uploads/
+
+# Editor
+.vscode/
+
+# Environment
+.env.*
+!.env.example
